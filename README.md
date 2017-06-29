@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-this is an example how we work with dii
+this is an example how we work with git
 
 ## Purpose
 
@@ -15,6 +15,8 @@ Sample website with plenty of files for demos
 tbd
 
 ## Copyright
+
+my dummy company
 
 ## How To Contribute
 
