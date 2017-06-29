@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work. Starting with rebase
-more changes from myfeature branch
+after stash 
 ## Introduction
 
 this is an example how we work with git
