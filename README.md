@@ -16,7 +16,7 @@ tbd
 
 ## Copyright
 
-my dummy company
+my dummy company. All rights reserved.
 
 ## How To Contribute
 
